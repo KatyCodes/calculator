@@ -17,15 +17,12 @@ var division = function(number1, number2) {
 
 $(document).ready(function() {
 
-$("form#add").submit(function(event) {
-	event.preventDefault();
-	var add1 = parseInt($("#add1").val());
-	var add2 = parseInt($("#add2").val());
-	var result = add (add1, add2);
-	$("h2").show();
-	$("#output").text(result)
-});
-
-
-
+	$("form#add").submit(function(event) {
+		event.preventDefault();
+		var add1 = parseInt($("#add1").val());
+		var add2 = parseInt($("#add2").val());
+		var result = add (add1, add2);
+		$("h2").show();
+		$("#output").text(result)
+	});
 });

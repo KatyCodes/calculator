@@ -1,22 +1,32 @@
-#Calculator#
+# Simple Calculator
+## https://katycodes.github.io/calculator
+Version 0.0.1: August 8, 2016
+by [Katy Henning](https://katycodes.github.io/portfolio) and Ethan Law
 
-###Calculator Application###
+### Technologies Used
+CSS HTML JavaScript
 
-##By Katy Henning and Josh Casuccio
+## Description
+* Playing around with some JavaScript.
 
-##Setup/Installation Requirements
+## Setup/Installation
 
-*none*
+* Clone this repository
+* Open index.html in browser
 
-##Known bugs
+## Support & Contact
+For questions, concerns, or suggestions please email katyannhenning@gmail.com
 
-*none
+## Specifications
+* Hide and show elements. Use some basic addition and subtraction.
 
-## Support
+## To Do List
 
-Please contact Katy or Josh
+## Known Issues
+* None
 
-### License
+## Legal
+* This software is licensed under the MIT license.
 
-Copyright (c) Katy Henning and Josh Casuccio
-This software is licensed under the MIT license
+
+Copyright (c) 2016 Copyright _[Katy Henning](https://katycodes.github.io/portfolio)_ and Ethan Law All Rights Reserved.
